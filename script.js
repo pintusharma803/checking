@@ -1,3 +1,1 @@
-console.log("my name is sonu")
-console.log("my name is mina")
-console.log("my name is rina")
+console.log("my name is ankit")
